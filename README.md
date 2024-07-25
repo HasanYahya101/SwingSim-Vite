@@ -1,8 +1,8 @@
-# CalcWhiz (React + Vite)
+# SwingSim (React + Vite)
 
 ## Introduction
 
-This is a basic Calculator that allows for 4 basic operations (Addition, Subtraction, Multiplication and Division). It is made using Tailwind CSS and React.
+This visualization demonstrates how chaos increases in a pendulum system as you add more joints. The motion becomes increasingly unpredictable and complex with each additional joint. Observe the fading paths to see the chaotic trajectories of each joint. The larger circle at the top represents the fixed point where the pendulum is attached.
 
 ## UI Library
 
@@ -13,9 +13,9 @@ Radix UI and ShadCN components were used to create the UI of the website. Moreov
 This project was deployed to Github Pages and can be tested there. No servers or databases were used in this Project.
 
 ## Preview
-![Screenshot 2024-06-03 190119](https://github.com/HasanYahya101/CalcWhiz-Vite/assets/118683092/96d6d571-6c63-46ae-bade-c5fdb51d5631)
-![Screenshot 2024-06-03 190613](https://github.com/HasanYahya101/CalcWhiz-Vite/assets/118683092/e28dbb0a-7109-4408-b841-b89d6a426bc5)
-![Screenshot 2024-06-03 190622](https://github.com/HasanYahya101/CalcWhiz-Vite/assets/118683092/807d9f92-a6ad-4d1b-bf84-b20c593ca598)
+![Screenshot 2024-07-25 061906](https://github.com/user-attachments/assets/f4899709-c51d-42c4-abbc-729d15105579)
+![Screenshot 2024-07-25 062016](https://github.com/user-attachments/assets/d7aea277-7324-442c-8406-e79cee7f7e42)
+![Screenshot 2024-07-25 062023](https://github.com/user-attachments/assets/df91f22c-f34d-438d-8313-402e5fe51cd9)
 
 ## React + Vite
 

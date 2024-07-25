@@ -177,7 +177,7 @@ const ChaosPendulumApp = () => {
                                     step={1}
                                     value={[numJoints]}
                                     onValueChange={(value) => setNumJoints(value[0])}
-                                    className="my-2"
+                                    className="my-3 hover:cursor-move"
                                 />
                             </div>
                             <div>
@@ -189,7 +189,7 @@ const ChaosPendulumApp = () => {
                                     step={0.01}
                                     value={[initialAngle]}
                                     onValueChange={(value) => setInitialAngle(value[0])}
-                                    className="my-2"
+                                    className="my-3 hover:cursor-move"
                                 />
                             </div>
                             <Button onClick={handleStartSimulation} className="w-full">Start Simulation</Button>
