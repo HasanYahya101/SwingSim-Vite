@@ -12,10 +12,13 @@ Radix UI and ShadCN components were used to create the UI of the website. Moreov
 
 This project was deployed to Github Pages and can be tested there. No servers or databases were used in this Project.
 
-## Preview
+## Preview (Desktop)
 ![Screenshot 2024-07-25 061906](https://github.com/user-attachments/assets/f4899709-c51d-42c4-abbc-729d15105579)
 ![Screenshot 2024-07-25 062016](https://github.com/user-attachments/assets/d7aea277-7324-442c-8406-e79cee7f7e42)
 ![Screenshot 2024-07-25 062023](https://github.com/user-attachments/assets/df91f22c-f34d-438d-8313-402e5fe51cd9)
+
+## Preview (Mobile)
+![Screenshot_20240724-213057](https://github.com/user-attachments/assets/87fe147b-7ac8-4583-9c31-fbaeed353867)
 
 ## React + Vite
 
