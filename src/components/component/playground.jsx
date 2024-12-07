@@ -34,7 +34,7 @@ const PendulumSimulation = ({ numJoints, initialAngle }) => {
             ref={canvasRef}
             width={500}
             height={500}
-            className="border rounded-lg w-full mx-auto"
+            className="border bg-white rounded-lg w-full mx-auto"
         />
     );
 };
